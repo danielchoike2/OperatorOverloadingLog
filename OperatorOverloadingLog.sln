@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadingLog", "OperatorOverloadingLog\OperatorOverloadingLog.csproj", "{DB116855-59DC-42EE-84C4-3FE21C32023E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB116855-59DC-42EE-84C4-3FE21C32023E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB116855-59DC-42EE-84C4-3FE21C32023E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB116855-59DC-42EE-84C4-3FE21C32023E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB116855-59DC-42EE-84C4-3FE21C32023E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C393CB1A-B51D-4BF8-925D-34D3D05FAA3A}
+	EndGlobalSection
+EndGlobal
